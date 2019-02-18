@@ -13,19 +13,20 @@ The `scrobble` post type is not standardised, and this gem implements my own ver
     "content": [
       "Go! - Public Service Broadcasting (The Race For Space)"
     ],
-  "scrobble-of": [
-    {
-      "type": ["h-cite"],
-      "properties": {
-        "title": ["Go!"],
-        "artist": ["Public Service Broadcasting"],
-        "album": ["The Race For Space"],
-        "time": ["4:12"],
-        "genre": ["Alternative"],
-        "when": ["2018-04-19 13:11:33 UTC"]
+    "scrobble-of": [
+      {
+        "type": ["h-cite"],
+        "properties": {
+          "title": ["Go!"],
+          "artist": ["Public Service Broadcasting"],
+          "album": ["The Race For Space"],
+          "time": ["4:12"],
+          "genre": ["Alternative"],
+          "when": ["2018-04-19 13:11:33 UTC"]
+        }
       }
-    }
-  ]
+    ]
+  }
 }
 ```
 
